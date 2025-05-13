@@ -40,5 +40,6 @@ The analysis helps identify energy usage patterns and could support future decis
 
 <img width="1108" alt="Screenshot 2025-05-13 at 1 11 26 PM" src="https://github.com/user-attachments/assets/fa83205e-f973-4502-bc2c-ad51bb2b8101" />
 
-<img width="993" alt="Screenshot 2025-05-13 at 1 11 50 PM" src="https://github.com/user-attachments/assets/17611e06-df27-4733-ba31-88dc8890d55a" />
+<img width="987" alt="Screenshot 2025-05-13 at 1 23 02 PM" src="https://github.com/user-attachments/assets/1c002fed-9b6f-45fc-b226-0de69c03ea40" />
+
 
